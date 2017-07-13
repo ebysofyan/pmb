@@ -1,0 +1,13 @@
+{
+    "name": "root/pmb",
+    "require": {
+        "dompdf/dompdf": "^0.8.0",
+        "mpdf/mpdf": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "ebysofyan",
+            "email": "eby.sofyan@gmail.com"
+        }
+    ]
+}
